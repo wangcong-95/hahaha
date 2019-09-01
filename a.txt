@@ -1,4 +1,7 @@
 魏来  是狗
 魏来还是狗
  say english
-1
+1魏来  是狗
+魏来还是狗
+
+say chinese
